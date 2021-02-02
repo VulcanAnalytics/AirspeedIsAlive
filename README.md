@@ -19,7 +19,7 @@
 # Email
 - [airspeedisalive@vulcananalytics.co.uk](mailto:airspeedisalive@vulcananalytics.co.uk)
 
-![Logo](images/logo/png)
+![Logo](images/logo.png)
 
 ## Please follow, like, subscribe, and interact.
 
