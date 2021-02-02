@@ -12,8 +12,9 @@
 
 # Wingly
 - [Profile](https://www.wingly.io/en/users/show/352448)
-- [£10 discount link*](https://www.wingly.io/en/referral/first-booking?ref=a5w1k&currency=GBP)
-(*) Only for new accounts and on first booking.
+- [£10 discount link\*](https://www.wingly.io/en/referral/first-booking?ref=a5w1k&currency=GBP)
+
+\*Only for new accounts and on first booking.
 
 # Email
 - [airspeedisalive@vulcananalytics.co.uk](mailto:airspeedisalive@vulcananalytics.co.uk)
