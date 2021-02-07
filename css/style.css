@@ -1,0 +1,27 @@
+:root {
+    --aia-yellow-colour: #f0f000;
+    --aia-green-colour: #00c300;
+    --aia-red-colour: #ef0000;
+    --aia-white-colour: #ffffff;
+}
+
+html {
+    background-color: black;
+    color: var(--aia-white-colour);
+}
+
+a:link {
+    color: var(--aia-yellow-colour);
+}
+
+a:hover {
+    color: var(--aia-yellow-colour);
+}
+
+a:active {
+    color: var(--aia-yellow-colour);
+}
+
+a:visited {
+    color: var(--aia-green-colour);
+}
