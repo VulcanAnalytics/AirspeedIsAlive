@@ -1,6 +1,9 @@
 ## Welcome to the links page
 
+![Logo](images/logo.png)
+
 # YouTube
+![Logo](images/yt_logo_rgb_dark.png)
 - [Airspeed Is Alive](https://www.youtube.com/channel/UCQSTBJ-zlRWOLENj1r8_odQ)
 - [All Was Well - Landing at Norwich after downpours](https://www.youtube.com/watch?v=agccIO2ilgw)
 
@@ -18,8 +21,6 @@
 
 # Email
 - [airspeedisalive@vulcananalytics.co.uk](mailto:airspeedisalive@vulcananalytics.co.uk)
-
-![Logo](images/logo.png)
 
 ## Please follow, like, subscribe, and interact.
 
